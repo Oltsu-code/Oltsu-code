@@ -17,17 +17,6 @@
 
 ---
 
-<h2 align="center">🔥 Featured Projects</h2>
-
-
-<ul>
-  <li><a href="https://github.com/Oltsu-code/Store-Fish">Store-Fish</a> – My own chess engine</li>
-  <li><a href="https://github.com/Oltsu-code/olsh">OlShell</a> – My own shell</li>
-  <li><a href="https://github.com/Oltsu-code/crazy-productive">Crazy Productive</a> - Productivity tracking app
-</ul>
-
----
-
 <h2 align="center">🛠 Tech Stack</h2>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,cs,ts,js,python,java,react,git,arch,docker,postgresql" />
